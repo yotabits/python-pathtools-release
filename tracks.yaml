@@ -39,11 +39,11 @@ tracks:
     devel_branch: null
     last_version: 0.1.2
     name: upstream
-    patches: null
+    patches: jade
     release_inc: '0'
     release_repo_url: null
-    release_tag: :{version}
+    release_tag: a3522fc61b00ee2d992ca375c600513
     ros_distro: jade
     vcs_type: git
-    vcs_uri: https://github.com/yotabits/python-pathtools.git
-    version: :{ask}
+    vcs_uri: https://github.com/gorakhargosh/pathtools.git
+    version: 0.1.2
